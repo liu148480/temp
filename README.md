@@ -62,3 +62,9 @@ return 0;
 ```cpp
 #include<iostream>
 ```
+
+##超链接技术
+[https://github.com/liu148480/temp][https://www.github.com "点击访问"]
+
+##插入图片
+![七海建人](C:\Users\HP\Pictures\Saved Pictures\七海建人.jpg "悬停窗口")
