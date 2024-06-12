@@ -43,3 +43,17 @@ markdown，文本修饰语言，用特殊符号修饰正文效果
  --|:--|:--|
  小红|卷|2
  小王|游泳|6
+
+###代码片段
+
+```c
+#include<stdio.h>
+int mian()
+{
+printf("test");
+return 0;
+}
+```
+```cpp
+#include<iostream>
+```
